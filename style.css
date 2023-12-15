@@ -7,7 +7,7 @@
   position: fixed;
   width: 100vw;
   height: 100vh;
-  background: url(./grey-wall-background.jpg);
+  background: url(./images/grey-wall-background.jpg);
 }
 .clock {
   position: fixed;
@@ -26,7 +26,7 @@
   transform: translate(-50%, -50%);
   width: 550px;
   height: 550px;
-  background: url(./clock-face300x300.png);
+  background: url(./images/clock-face300x300.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
