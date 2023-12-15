@@ -1,8 +1,8 @@
 # CLOCK 
-This is simple small project of Clock. I made this
+This is simple small project of clock. I performed this
 project as a solution of the Java Script Course. The main case is to practice working with data Object an d set interval also included some cool css like transform or transition.
 
-![Alt text](./js 30 days/Clock/clock readme-view.jpg)
+![Alt text](/Clock/clock readme-view.jpg)
 
 # The challenge
 Users should be able to: 
